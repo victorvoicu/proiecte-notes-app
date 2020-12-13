@@ -1,0 +1,21 @@
+{
+  "name": "proiect-notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "args": "^5.0.1",
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "nodemailer": "^6.4.16",
+    "validator": "^13.1.17",
+    "yargs": "^16.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

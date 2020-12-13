@@ -1,0 +1,5 @@
+facem un array gol
+
+in el punem notele sub forma de json
+
+scriem in n.json
